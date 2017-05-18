@@ -1,7 +1,7 @@
 ---
 title: How to Play Hockey
 template: How-to
-id:
+id: 115007581648
 locale: en-us
 ---
 
